@@ -1,4 +1,4 @@
-# Clothing Store project assignment
+# Clothing Store (project assignment)
 
 In a clothing store, you can buy shoes, shirts, suit jackets and trousers.
 Each product has a name, brand, price, and color.
@@ -18,4 +18,4 @@ Objective is that class Cashier has a method to print a receipt. The method acce
 and the date and time of purchase. It should print in the console, all purchased products with their price, the total
 sum, and the total discount in predefined format.
 
-No user input is used, the data should be predefined.
+No user input is used, the data is predefined.
